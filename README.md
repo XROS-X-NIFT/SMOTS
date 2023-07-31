@@ -35,7 +35,7 @@ It was a 3-Month extended team project under the mentorship of excellent profess
 - [ ] Simulation should have voice instructions and multiple language support.
 
 ## Resources 
-* [Demo Video](https://youtu.be/leQT2alHVxw)
+* [Demo Video](https://youtu.be/wWYrQHN0z7M)
 * [Final Project File (UE 5.0.3) ](https://drive.google.com/drive/folders/13XvOUTTscTGKAipq4r_6Fx8604-rnqI5?usp=sharing)
 
 ## Developpers
