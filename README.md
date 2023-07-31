@@ -7,7 +7,7 @@ This HoloLense2 application provides the user with an immersive experience of tr
 
 Here users can get an experience of using the machine virtually anywhere any time. He requires to wear a Hololense headset and he can interact with the virtual objects in a real environment using just his hands and legs.
 
-It was a 3-Month long team project under the mentorship of amazing professors from **NIFT-Delhi**.
+It was a 3-Month extended team project under the mentorship of excellent professors from **NIFT-Delhi**.
 
 ## Tech-Stacks
 ### Hardware
@@ -36,7 +36,7 @@ It was a 3-Month long team project under the mentorship of amazing professors fr
 
 ## Resources 
 * [Demo Video](https://youtu.be/leQT2alHVxw)
-* [Final Project File (UE 5.0.3) ](https://drive.google.com/drive/folders/192UpXdqOHVgYNVxgkoE4j15oaGKPV8O6?usp=sharing)
+* [Final Project File (UE 5.0.3) ](https://drive.google.com/drive/folders/13XvOUTTscTGKAipq4r_6Fx8604-rnqI5?usp=sharing)
 
 ## Developpers
 * [Aniket Rana](https://github.com/Aniumbott)
