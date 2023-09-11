@@ -38,7 +38,7 @@ It was a 3-Month extended team project under the mentorship of excellent profess
 * [Demo Video](https://youtu.be/wWYrQHN0z7M)
 * [Final Project File (UE 5.0.3) ](https://drive.google.com/drive/folders/13XvOUTTscTGKAipq4r_6Fx8604-rnqI5?usp=sharing)
 
-## Developpers
+## Developers
 * [Aniket Rana](https://github.com/Aniumbott)
 * [Vikash Singh](https://github.com/vikash949)
 * [Deepth Jose](https://github.com/deepzrj)
