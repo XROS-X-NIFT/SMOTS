@@ -41,7 +41,7 @@ It was a 3-Month extended team project under the mentorship of excellent profess
 ## Developers
 * [Aniket Rana](https://github.com/Aniumbott)
 * [Vikash Singh](https://github.com/vikash949)
-* [Deepth Jose](https://github.com/deepzrj)
+* [Deepthy Rose Jose](https://github.com/deepzrj)
 * [Vibhanshu Singh Sindhu](https://github.com/vibhanshusindhu)
 
 ## Mentors
